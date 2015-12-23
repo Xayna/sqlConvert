@@ -1,0 +1,89 @@
+2015-09-10 00:02:30,517 INFO d.c.d.MSSQLConnection [demo.sqlConvert.Main.main()] Total time for connecting to db : 247.5 ms
+2015-09-10 00:02:30,911 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 8 columns  from DatabaseLog: 48.18 ms
+2015-09-10 00:02:30,970 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 2 columns  from AdventureWorksDWBuildVersion: 57.43 ms
+2015-09-10 00:02:31,031 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 10 columns  from DimAccount: 60.20 ms
+2015-09-10 00:02:31,073 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 3 columns  from DimCurrency: 42.16 ms
+2015-09-10 00:02:31,122 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 29 columns  from DimCustomer: 48.32 ms
+2015-09-10 00:02:31,154 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 19 columns  from DimDate: 31.47 ms
+2015-09-10 00:02:31,181 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 3 columns  from DimDepartmentGroup: 26.54 ms
+2015-09-10 00:02:31,207 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 31 columns  from DimEmployee: 25.04 ms
+2015-09-10 00:02:31,233 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 11 columns  from DimGeography: 26.07 ms
+2015-09-10 00:02:31,259 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 5 columns  from DimOrganization: 25.68 ms
+2015-09-10 00:02:31,287 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 36 columns  from DimProduct: 27.02 ms
+2015-09-10 00:02:31,311 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 5 columns  from DimProductCategory: 23.34 ms
+2015-09-10 00:02:31,338 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 6 columns  from DimProductSubcategory: 27.03 ms
+2015-09-10 00:02:31,362 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 16 columns  from DimPromotion: 23.40 ms
+2015-09-10 00:02:31,388 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 20 columns  from DimReseller: 25.47 ms
+2015-09-10 00:02:31,426 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 4 columns  from DimSalesReason: 37.37 ms
+2015-09-10 00:02:31,449 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 6 columns  from DimSalesTerritory: 22.91 ms
+2015-09-10 00:02:31,473 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 2 columns  from DimScenario: 23.29 ms
+2015-09-10 00:02:31,501 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 3 columns  from FactAdditionalInternationalProductDescription: 28.35 ms
+2015-09-10 00:02:31,538 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 14 columns  from FactCallCenter: 36.08 ms
+2015-09-10 00:02:31,573 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 5 columns  from FactCurrencyRate: 33.46 ms
+2015-09-10 00:02:31,600 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 8 columns  from FactFinance: 26.44 ms
+2015-09-10 00:02:31,634 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 26 columns  from FactInternetSales: 33.59 ms
+2015-09-10 00:02:31,665 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 3 columns  from FactInternetSalesReason: 30.86 ms
+2015-09-10 00:02:31,699 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 7 columns  from FactProductInventory: 33.44 ms
+2015-09-10 00:02:31,744 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 27 columns  from FactResellerSales: 44.39 ms
+2015-09-10 00:02:31,780 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 7 columns  from FactSalesQuota: 35.27 ms
+2015-09-10 00:02:31,811 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 8 columns  from FactSurveyResponse: 30.37 ms
+2015-09-10 00:02:31,841 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 6 columns  from NewFactCurrencyRate: 30.00 ms
+2015-09-10 00:02:31,872 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 24 columns  from ProspectiveBuyer: 30.60 ms
+2015-09-10 00:02:31,906 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 5 columns  from sysdiagrams: 33.05 ms
+2015-09-10 00:02:31,906 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 31tables  from dbo: 1.063 s
+2015-09-10 00:02:41,717 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 79 constraints  from dbo: 9.811 s
+2015-09-10 00:02:41,742 INFO d.s.MSSQLFunctions [ForkJoinPool-1-worker-1] Total time for extracting 0 sequences  from dbo: 25.00 ms
+2015-09-10 00:02:41,743 INFO d.s.MSSQLFunctions [demo.sqlConvert.Main.main()] Number of extracted schemas : 1
+2015-09-10 00:02:41,743 INFO d.s.MSSQLFunctions [demo.sqlConvert.Main.main()] Total Time to extract Schemas :11.22 s
+2015-09-10 00:02:41,743 INFO d.s.Main [demo.sqlConvert.Main.main()] Total Time to extract Schemas :11.22 s
+2015-09-10 00:02:41,807 INFO d.c.d.PostgresConnection [demo.sqlConvert.Main.main()] Total time for connecting to db : 60.90 ms
+2015-09-10 00:02:41,807 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Total time to connect to postgres db :61.50 ms
+2015-09-10 00:02:58,201 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Total time to create AdventureWorksDW2014 db :16.39 s
+2015-09-10 00:02:58,203 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Total time to execute createDB () process 16.46 s
+2015-09-10 00:02:58,245 INFO d.c.d.PostgresConnection [demo.sqlConvert.Main.main()] Total time for connecting to db : 40.92 ms
+2015-09-10 00:02:58,259 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Extenctions created
+2015-09-10 00:02:58,260 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Schema dbo :
+2015-09-10 00:02:59,594 INFO d.s.Transfer [demo.sqlConvert.Main.main()] 961 tables created in 1.334 s
+2015-09-10 00:02:59,595 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Schemas & tables created
+2015-09-10 00:02:59,848 INFO d.s.testData [ForkJoinPool-2-worker-0] total inserting time : dbo.DimCurrency 142.4 ms
+2015-09-10 00:02:59,939 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.DatabaseLog 234.1 ms
+2015-09-10 00:02:59,939 INFO d.s.testData [ForkJoinPool-2-worker-2] total inserting time : dbo.AdventureWorksDWBuildVersion 234.3 ms
+2015-09-10 00:02:59,939 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.DimAccount 234.5 ms
+2015-09-10 00:03:00,502 INFO d.s.testData [ForkJoinPool-2-worker-2] total inserting time : dbo.DimEmployee 291.4 ms
+2015-09-10 00:03:00,502 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.DimDepartmentGroup 383.5 ms
+2015-09-10 00:03:00,967 INFO d.s.testData [ForkJoinPool-2-worker-2] total inserting time : dbo.DimGeography 464.3 ms
+2015-09-10 00:03:01,647 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.DimDate 1.708 s
+2015-09-10 00:03:01,647 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.DimOrganization 1.143 s
+2015-09-10 00:03:02,401 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.DimProductCategory 658.7 ms
+2015-09-10 00:03:02,403 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.DimProductSubcategory 651.1 ms
+2015-09-10 00:03:02,632 INFO d.s.testData [ForkJoinPool-2-worker-2] total inserting time : dbo.DimProduct 1.663 s
+2015-09-10 00:03:02,703 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.DimReseller 263.2 ms
+2015-09-10 00:03:02,729 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.DimPromotion 295.0 ms
+2015-09-10 00:03:02,880 INFO d.s.testData [ForkJoinPool-2-worker-2] total inserting time : dbo.DimSalesReason 245.7 ms
+2015-09-10 00:03:03,766 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.DimScenario 1.034 s
+2015-09-10 00:03:03,782 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.DimSalesTerritory 1.078 s
+2015-09-10 00:03:04,085 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.FactCallCenter 302.3 ms
+2015-09-10 00:03:05,973 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.FactCurrencyRate 2.175 s
+2015-09-10 00:03:10,944 INFO d.s.testData [ForkJoinPool-2-worker-2] total inserting time : dbo.FactAdditionalInternationalProductDescription 8.063 s
+2015-09-10 00:03:11,434 INFO d.s.testData [ForkJoinPool-2-worker-0] total inserting time : dbo.DimCustomer 11.58 s
+2015-09-10 00:03:21,099 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.FactFinance 17.01 s
+2015-09-10 00:03:34,824 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.FactInternetSales 28.85 s
+2015-09-10 00:03:34,926 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.FactSalesQuota 101.7 ms
+2015-09-10 00:03:35,281 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.FactSurveyResponse 353.5 ms
+2015-09-10 00:03:35,343 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.NewFactCurrencyRate 62.29 ms
+2015-09-10 00:03:35,827 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.ProspectiveBuyer 474.3 ms
+2015-09-10 00:03:36,025 INFO d.s.testData [ForkJoinPool-2-worker-1] total inserting time : dbo.sysdiagrams 197.9 ms
+2015-09-10 00:03:36,278 INFO d.s.testData [ForkJoinPool-2-worker-2] total inserting time : dbo.FactInternetSalesReason 25.33 s
+2015-09-10 00:03:37,861 INFO d.s.testData [ForkJoinPool-2-worker-3] total inserting time : dbo.FactResellerSales 16.76 s
+2015-09-10 00:04:13,072 INFO d.s.testData [ForkJoinPool-2-worker-0] total inserting time : dbo.FactProductInventory 1.027 min
+2015-09-10 00:04:13,073 INFO d.s.Transfer [demo.sqlConvert.Main.main()] total inserting time : 1.225 min
+2015-09-10 00:04:13,073 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Schema dbo :
+2015-09-10 00:04:24,453 INFO d.s.Transfer [pool-3-thread-1] 35 PK & Unique constraints created in 11.38 s
+2015-09-10 00:04:24,453 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Pk, Unique 
+2015-09-10 00:04:24,453 INFO d.s.Transfer [demo.sqlConvert.Main.main()] Schema dbo :
+2015-09-10 00:04:24,456 INFO d.s.Transfer [pool-4-thread-2] 0 Check constraints created in 9.442 ?s
+2015-09-10 00:04:24,456 INFO d.s.Transfer [pool-4-thread-3] 0 Sequence created in 11.09 ?s
+2015-09-10 00:04:26,142 INFO d.s.Transfer [pool-4-thread-1] 44 FK constraints created in 1.687 s
+2015-09-10 00:04:26,143 INFO d.s.Transfer [demo.sqlConvert.Main.main()] FKs, CKs & Sequences created created
+2015-09-10 00:04:26,143 INFO d.s.Transfer [demo.sqlConvert.Main.main()] total time for the transfer process :1.466 min
+2015-09-10 00:04:26,144 INFO d.s.Main [demo.sqlConvert.Main.main()] total time for the whole process :1.947 min (1:56:796)

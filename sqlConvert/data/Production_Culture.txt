@@ -1,0 +1,8 @@
+      	2008-04-30 00:00:00.000	Invariant Language (Invariant Country)
+ar    	2008-04-30 00:00:00.000	Arabic
+en    	2008-04-30 00:00:00.000	English
+es    	2008-04-30 00:00:00.000	Spanish
+fr    	2008-04-30 00:00:00.000	French
+he    	2008-04-30 00:00:00.000	Hebrew
+th    	2008-04-30 00:00:00.000	Thai
+zh-cht	2008-04-30 00:00:00.000	Chinese

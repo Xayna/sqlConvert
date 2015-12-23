@@ -1,0 +1,29 @@
+1	Exotic Liquids	N/A	49 Gilbert St.	(171) 555-2222	N/A	EC1 4SD	UK	London	N/A	Charlotte Cooper	Purchasing Manager
+2	New Orleans Cajun Delights	#CAJUN.HTM#	P.O. Box 78934	(100) 555-4822	LA	70117	USA	New Orleans	N/A	Shelley Burke	Order Administrator
+3	Grandma Kelly's Homestead	N/A	707 Oxford Rd.	(313) 555-5735	MI	48104	USA	Ann Arbor	(313) 555-3349	Regina Murphy	Sales Representative
+4	Tokyo Traders	N/A	9-8 Sekimai Musashino-shi	(03) 3555-5011	N/A	100	Japan	Tokyo	N/A	Yoshi Nagase	Marketing Manager
+5	Cooperativa de Quesos 'Las Cabras'	N/A	Calle del Rosal 4	(98) 598 76 54	Asturias	33007	Spain	Oviedo	N/A	Antonio del Valle Saavedra	Export Administrator
+6	Mayumi's	Mayumi's (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#	92 Setsuko Chuo-ku	(06) 431-7877	N/A	545	Japan	Osaka	N/A	Mayumi Ohno	Marketing Representative
+7	Pavlova, Ltd.	N/A	74 Rose St. Moonie Ponds	(03) 444-2343	Victoria	3058	Australia	Melbourne	(03) 444-6588	Ian Devling	Marketing Manager
+8	Specialty Biscuits, Ltd.	N/A	29 King's Way	(161) 555-4448	N/A	M14 GSD	UK	Manchester	N/A	Peter Wilson	Sales Representative
+9	PB KnÑckebrîd AB	N/A	Kaloadagatan 13	031-987 65 43	N/A	S-345 67	Sweden	Gîteborg	031-987 65 91	Lars Peterson	Sales Agent
+10	Refrescos Americanas LTDA	N/A	Av. das Americanas 12.890	(11) 555 4640	N/A	5442	Brazil	Sao Paulo	N/A	Carlos Diaz	Marketing Manager
+11	Heli SÅ·waren GmbH & Co. KG	N/A	Tiergartenstra·e 5	(010) 9984510	N/A	10785	Germany	Berlin	N/A	Petra Winkler	Sales Manager
+12	Plutzer Lebensmittelgro·mÑrkte AG	Plutzer (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/plutzer.htm#	Bogenallee 51	(069) 992755	N/A	60439	Germany	Frankfurt	N/A	Martin Bein	International Marketing Mgr.
+13	Nord-Ost-Fisch Handelsgesellschaft mbH	N/A	Frahmredder 112a	(04721) 8713	N/A	27478	Germany	Cuxhaven	(04721) 8714	Sven Petersen	Coordinator Foreign Markets
+14	Formaggi Fortini s.r.l.	#FORMAGGI.HTM#	Viale Dante, 75	(0544) 60323	N/A	48100	Italy	Ravenna	(0544) 60603	Elio Rossi	Sales Representative
+15	Norske Meierier	N/A	Hatlevegen 5	(0)2-953010	N/A	1320	Norway	Sandvika	N/A	Beate Vileid	Marketing Manager
+16	Bigfoot Breweries	N/A	3400 - 8th Avenue Suite 210	(503) 555-9931	OR	97101	USA	Bend	N/A	Cheryl Saylor	Regional Account Rep.
+17	Svensk Sjîfîda AB	N/A	BrovallavÑgen 231	08-123 45 67	N/A	S-123 45	Sweden	Stockholm	N/A	Michael Bjîrn	Sales Representative
+18	Aux joyeux ecclÇsiastiques	N/A	203, Rue des Francs-Bourgeois	(1) 03.83.00.68	N/A	75004	France	Paris	(1) 03.83.00.62	Guyläne Nodier	Sales Manager
+19	New England Seafood Cannery	N/A	Order Processing Dept. 2100 Paul Revere Blvd.	(617) 555-3267	MA	02134	USA	Boston	(617) 555-3389	Robb Merchant	Wholesale Account Agent
+20	Leka Trading	N/A	471 Serangoon Loop, Suite #402	555-8787	N/A	0512	Singapore	Singapore	N/A	Chandra Leka	Owner
+21	Lyngbysild	N/A	Lyngbysild Fiskebakken 10	43844108	N/A	2800	Denmark	Lyngby	43844115	Niels Petersen	Sales Manager
+22	Zaanse Snoepfabriek	N/A	Verkoop Rijnweg 22	(12345) 1212	N/A	9999 ZZ	Netherlands	Zaandam	(12345) 1210	Dirk Luchte	Accounting Manager
+23	Karkki Oy	N/A	Valtakatu 12	(953) 10956	N/A	53120	Finland	Lappeenranta	N/A	Anne Heikkonen	Product Manager
+24	G'day, Mate	G'day Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#	170 Prince Edward Parade Hunter's Hill	(02) 555-5914	NSW	2042	Australia	Sydney	(02) 555-4873	Wendy Mackenzie	Sales Representative
+25	Ma Maison	N/A	2960 Rue St. Laurent	(514) 555-9022	QuÇbec	H1J 1C3	Canada	MontrÇal	N/A	Jean-Guy Lauzon	Marketing Manager
+26	Pasta Buttini s.r.l.	N/A	Via dei Gelsomini, 153	(089) 6547665	N/A	84100	Italy	Salerno	(089) 6547667	Giovanni Giudici	Order Administrator
+27	Escargots Nouveaux	N/A	22, rue H. Voiron	85.57.00.07	N/A	71300	France	Montceau	N/A	Marie Delamare	Sales Manager
+28	Gai pÉturage	N/A	Bat. B 3, rue des Alpes	38.76.98.06	N/A	74000	France	Annecy	38.76.98.58	Eliane Noz	Sales Representative
+29	Foràts d'Çrables	N/A	148 rue Chasseur	(514) 555-2955	QuÇbec	J2S 7S8	Canada	Ste-Hyacinthe	(514) 555-2921	Chantal Goulet	Accounting Manager

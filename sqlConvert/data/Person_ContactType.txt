@@ -1,0 +1,20 @@
+1	2008-04-30 00:00:00.000	Accounting Manager
+2	2008-04-30 00:00:00.000	Assistant Sales Agent
+3	2008-04-30 00:00:00.000	Assistant Sales Representative
+4	2008-04-30 00:00:00.000	Coordinator Foreign Markets
+5	2008-04-30 00:00:00.000	Export Administrator
+6	2008-04-30 00:00:00.000	International Marketing Manager
+7	2008-04-30 00:00:00.000	Marketing Assistant
+8	2008-04-30 00:00:00.000	Marketing Manager
+9	2008-04-30 00:00:00.000	Marketing Representative
+10	2008-04-30 00:00:00.000	Order Administrator
+11	2008-04-30 00:00:00.000	Owner
+12	2008-04-30 00:00:00.000	Owner/Marketing Assistant
+13	2008-04-30 00:00:00.000	Product Manager
+14	2008-04-30 00:00:00.000	Purchasing Agent
+15	2008-04-30 00:00:00.000	Purchasing Manager
+16	2008-04-30 00:00:00.000	Regional Account Representative
+17	2008-04-30 00:00:00.000	Sales Agent
+18	2008-04-30 00:00:00.000	Sales Associate
+19	2008-04-30 00:00:00.000	Sales Manager
+20	2008-04-30 00:00:00.000	Sales Representative

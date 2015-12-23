@@ -1,0 +1,16 @@
+Research and Development	1	2008-04-30 00:00:00.000	Engineering
+Research and Development	2	2008-04-30 00:00:00.000	Tool Design
+Sales and Marketing	3	2008-04-30 00:00:00.000	Sales
+Sales and Marketing	4	2008-04-30 00:00:00.000	Marketing
+Inventory Management	5	2008-04-30 00:00:00.000	Purchasing
+Research and Development	6	2008-04-30 00:00:00.000	Research and Development
+Manufacturing	7	2008-04-30 00:00:00.000	Production
+Manufacturing	8	2008-04-30 00:00:00.000	Production Control
+Executive General and Administration	9	2008-04-30 00:00:00.000	Human Resources
+Executive General and Administration	10	2008-04-30 00:00:00.000	Finance
+Executive General and Administration	11	2008-04-30 00:00:00.000	Information Services
+Quality Assurance	12	2008-04-30 00:00:00.000	Document Control
+Quality Assurance	13	2008-04-30 00:00:00.000	Quality Assurance
+Executive General and Administration	14	2008-04-30 00:00:00.000	Facilities and Maintenance
+Inventory Management	15	2008-04-30 00:00:00.000	Shipping and Receiving
+Executive General and Administration	16	2008-04-30 00:00:00.000	Executive

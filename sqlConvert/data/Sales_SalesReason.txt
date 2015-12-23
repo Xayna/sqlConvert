@@ -1,0 +1,10 @@
+1	Other	2008-04-30 00:00:00.000	Price
+2	Promotion	2008-04-30 00:00:00.000	On Promotion
+3	Marketing	2008-04-30 00:00:00.000	Magazine Advertisement
+4	Marketing	2008-04-30 00:00:00.000	Television  Advertisement
+5	Other	2008-04-30 00:00:00.000	Manufacturer
+6	Other	2008-04-30 00:00:00.000	Review
+7	Marketing	2008-04-30 00:00:00.000	Demo Event
+8	Marketing	2008-04-30 00:00:00.000	Sponsorship
+9	Other	2008-04-30 00:00:00.000	Quality
+10	Other	2008-04-30 00:00:00.000	Other

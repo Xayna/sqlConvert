@@ -1,0 +1,91 @@
+Alfreds Futterkiste	Obere Str. 57	030-0074321	N/A	12209	Germany	ALFKI	Berlin	030-0076545	Maria Anders	Sales Representative
+Ana Trujillo Emparedados y helados	Avda. de la Constituci¢n 2222	(5) 555-4729	N/A	05021	Mexico	ANATR	MÇxico D.F.	(5) 555-3745	Ana Trujillo	Owner
+Antonio Moreno Taquer°a	Mataderos  2312	(5) 555-3932	N/A	05023	Mexico	ANTON	MÇxico D.F.	N/A	Antonio Moreno	Owner
+Around the Horn	120 Hanover Sq.	(171) 555-7788	N/A	WA1 1DP	UK	AROUT	London	(171) 555-6750	Thomas Hardy	Sales Representative
+Berglunds snabbkîp	BerguvsvÑgen  8	0921-12 34 65	N/A	S-958 22	Sweden	BERGS	LuleÜ	0921-12 34 67	Christina Berglund	Order Administrator
+Blauer See Delikatessen	Forsterstr. 57	0621-08460	N/A	68306	Germany	BLAUS	Mannheim	0621-08924	Hanna Moos	Sales Representative
+Blondesddsl päre et fils	24, place KlÇber	88.60.15.31	N/A	67000	France	BLONP	Strasbourg	88.60.15.32	FrÇdÇrique Citeaux	Marketing Manager
+B¢lido Comidas preparadas	C/ Araquil, 67	(91) 555 22 82	N/A	28023	Spain	BOLID	Madrid	(91) 555 91 99	Mart°n Sommer	Owner
+Bon app'	12, rue des Bouchers	91.24.45.40	N/A	13008	France	BONAP	Marseille	91.24.45.41	Laurence Lebihan	Owner
+Bottom-Dollar Markets	23 Tsawassen Blvd.	(604) 555-4729	BC	T2F 8M4	Canada	BOTTM	Tsawassen	(604) 555-3745	Elizabeth Lincoln	Accounting Manager
+B's Beverages	Fauntleroy Circus	(171) 555-1212	N/A	EC2 5NT	UK	BSBEV	London	N/A	Victoria Ashworth	Sales Representative
+Cactus Comidas para llevar	Cerrito 333	(1) 135-5555	N/A	1010	Argentina	CACTU	Buenos Aires	(1) 135-4892	Patricio Simpson	Sales Agent
+Centro comercial Moctezuma	Sierras de Granada 9993	(5) 555-3392	N/A	05022	Mexico	CENTC	MÇxico D.F.	(5) 555-7293	Francisco Chang	Marketing Manager
+Chop-suey Chinese	Hauptstr. 29	0452-076545	N/A	3012	Switzerland	CHOPS	Bern	N/A	Yang Wang	Owner
+ComÇrcio Mineiro	Av. dos Lus°adas, 23	(11) 555-7647	SP	05432-043	Brazil	COMMI	Sao Paulo	N/A	Pedro Afonso	Sales Associate
+Consolidated Holdings	Berkeley Gardens 12  Brewery	(171) 555-2282	N/A	WX1 6LT	UK	CONSH	London	(171) 555-9199	Elizabeth Brown	Sales Representative
+Drachenblut Delikatessen	Walserweg 21	0241-039123	N/A	52066	Germany	DRACD	Aachen	0241-059428	Sven Ottlieb	Order Administrator
+Du monde entier	67, rue des Cinquante Otages	40.67.88.88	N/A	44000	France	DUMON	Nantes	40.67.89.89	Janine Labrune	Owner
+Eastern Connection	35 King George	(171) 555-0297	N/A	WX3 6FW	UK	EASTC	London	(171) 555-3373	Ann Devon	Sales Agent
+Ernst Handel	Kirchgasse 6	7675-3425	N/A	8010	Austria	ERNSH	Graz	7675-3426	Roland Mendel	Sales Manager
+Familia Arquibaldo	Rua Or¢s, 92	(11) 555-9857	SP	05442-030	Brazil	FAMIA	Sao Paulo	N/A	Aria Cruz	Marketing Assistant
+FISSA Fabrica Inter. Salchichas S.A.	C/ Moralzarzal, 86	(91) 555 94 44	N/A	28034	Spain	FISSA	Madrid	(91) 555 55 93	Diego Roel	Accounting Manager
+Folies gourmandes	184, chaussÇe de Tournai	20.16.10.16	N/A	59000	France	FOLIG	Lille	20.16.10.17	Martine RancÇ	Assistant Sales Agent
+Folk och fÑ HB	èkergatan 24	0695-34 67 21	N/A	S-844 67	Sweden	FOLKO	BrÑcke	N/A	Maria Larsson	Owner
+Frankenversand	Berliner Platz 43	089-0877310	N/A	80805	Germany	FRANK	MÅnchen	089-0877451	Peter Franken	Marketing Manager
+France restauration	54, rue Royale	40.32.21.21	N/A	44000	France	FRANR	Nantes	40.32.21.20	Carine Schmitt	Marketing Manager
+Franchi S.p.A.	Via Monte Bianco 34	011-4988260	N/A	10100	Italy	FRANS	Torino	011-4988261	Paolo Accorti	Sales Representative
+Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	(1) 354-2534	N/A	1675	Portugal	FURIB	Lisboa	(1) 354-2535	Lino Rodriguez	Sales Manager
+Galer°a del gastr¢nomo	Rambla de Catalu§a, 23	(93) 203 4560	N/A	08022	Spain	GALED	Barcelona	(93) 203 4561	Eduardo Saavedra	Marketing Manager
+Godos Cocina T°pica	C/ Romero, 33	(95) 555 82 82	N/A	41101	Spain	GODOS	Sevilla	N/A	JosÇ Pedro Freyre	Sales Manager
+Gourmet Lanchonetes	Av. Brasil, 442	(11) 555-9482	SP	04876-786	Brazil	GOURL	Campinas	N/A	AndrÇ Fonseca	Sales Associate
+Great Lakes Food Market	2732 Baker Blvd.	(503) 555-7555	OR	97403	USA	GREAL	Eugene	N/A	Howard Snyder	Marketing Manager
+GROSELLA-Restaurante	5¶ Ave. Los Palos Grandes	(2) 283-2951	DF	1081	Venezuela	GROSR	Caracas	(2) 283-3397	Manuel Pereira	Owner
+Hanari Carnes	Rua do Paáo, 67	(21) 555-0091	RJ	05454-876	Brazil	HANAR	Rio de Janeiro	(21) 555-8765	Mario Pontes	Accounting Manager
+HILARION-Abastos	Carrera 22 con Ave. Carlos Soublette #8-35	(5) 555-1340	T†chira	5022	Venezuela	HILAA	San Crist¢bal	(5) 555-1948	Carlos Hern†ndez	Sales Representative
+Hungry Coyote Import Store	City Center Plaza 516 Main St.	(503) 555-6874	OR	97827	USA	HUNGC	Elgin	(503) 555-2376	Yoshi Latimer	Sales Representative
+Hungry Owl All-Night Grocers	8 Johnstown Road	2967 542	Co. Cork	N/A	Ireland	HUNGO	Cork	2967 3333	Patricia McKenna	Sales Associate
+Island Trading	Garden House Crowther Way	(198) 555-8888	Isle of Wight	PO31 7PJ	UK	ISLAT	Cowes	N/A	Helen Bennett	Marketing Manager
+Kîniglich Essen	Maubelstr. 90	0555-09876	N/A	14776	Germany	KOENE	Brandenburg	N/A	Philip Cramer	Sales Associate
+La corne d'abondance	67, avenue de l'Europe	30.59.84.10	N/A	78000	France	LACOR	Versailles	30.59.85.11	Daniel Tonini	Sales Representative
+La maison d'Asie	1 rue Alsace-Lorraine	61.77.61.10	N/A	31000	France	LAMAI	Toulouse	61.77.61.11	Annette Roulet	Sales Manager
+Laughing Bacchus Wine Cellars	1900 Oak St.	(604) 555-3392	BC	V3F 2K1	Canada	LAUGB	Vancouver	(604) 555-7293	Yoshi Tannamuri	Marketing Assistant
+Lazy K Kountry Store	12 Orchestra Terrace	(509) 555-7969	WA	99362	USA	LAZYK	Walla Walla	(509) 555-6221	John Steel	Marketing Manager
+Lehmanns Marktstand	Magazinweg 7	069-0245984	N/A	60528	Germany	LEHMS	Frankfurt a.M.	069-0245874	Renate Messner	Sales Representative
+Let's Stop N Shop	87 Polk St. Suite 5	(415) 555-5938	CA	94117	USA	LETSS	San Francisco	N/A	Jaime Yorres	Owner
+LILA-Supermercado	Carrera 52 con Ave. Bol°var #65-98 Llano Largo	(9) 331-6954	Lara	3508	Venezuela	LILAS	Barquisimeto	(9) 331-7256	Carlos Gonz†lez	Accounting Manager
+LINO-Delicateses	Ave. 5 de Mayo Porlamar	(8) 34-56-12	Nueva Esparta	4980	Venezuela	LINOD	I. de Margarita	(8) 34-93-93	Felipe Izquierdo	Owner
+Lonesome Pine Restaurant	89 Chiaroscuro Rd.	(503) 555-9573	OR	97219	USA	LONEP	Portland	(503) 555-9646	Fran Wilson	Sales Manager
+Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	035-640230	N/A	24100	Italy	MAGAA	Bergamo	035-640231	Giovanni Rovelli	Marketing Manager
+Maison Dewey	Rue Joseph-Bens 532	(02) 201 24 67	N/A	B-1180	Belgium	MAISD	Bruxelles	(02) 201 24 68	Catherine Dewey	Sales Agent
+Märe Paillarde	43 rue St. Laurent	(514) 555-8054	QuÇbec	H1J 1C3	Canada	MEREP	MontrÇal	(514) 555-8055	Jean Fresniäre	Marketing Assistant
+Morgenstern Gesundkost	Heerstr. 22	0342-023176	N/A	04179	Germany	MORGK	Leipzig	N/A	Alexander Feuer	Marketing Assistant
+North/South	South House 300 Queensbridge	(171) 555-7733	N/A	SW7 1RZ	UK	NORTS	London	(171) 555-2530	Simon Crowther	Sales Associate
+OcÇano Atl†ntico Ltda.	Ing. Gustavo Moncada 8585 Piso 20-A	(1) 135-5333	N/A	1010	Argentina	OCEAN	Buenos Aires	(1) 135-5535	Yvonne Moncada	Sales Agent
+Old World Delicatessen	2743 Bering St.	(907) 555-7584	AK	99508	USA	OLDWO	Anchorage	(907) 555-2880	Rene Phillips	Sales Representative
+Ottilies KÑseladen	Mehrheimerstr. 369	0221-0644327	N/A	50739	Germany	OTTIK	Kîln	0221-0765721	Henriette Pfalzheim	Owner
+Paris spÇcialitÇs	265, boulevard Charonne	(1) 42.34.22.66	N/A	75012	France	PARIS	Paris	(1) 42.34.22.77	Marie Bertrand	Owner
+Pericles Comidas cl†sicas	Calle Dr. Jorge Cash 321	(5) 552-3745	N/A	05033	Mexico	PERIC	MÇxico D.F.	(5) 545-3745	Guillermo Fern†ndez	Sales Representative
+Piccolo und mehr	Geislweg 14	6562-9722	N/A	5020	Austria	PICCO	Salzburg	6562-9723	Georg Pipps	Sales Manager
+Princesa Isabel Vinhos	Estrada da sa£de n. 58	(1) 356-5634	N/A	1756	Portugal	PRINI	Lisboa	N/A	Isabel de Castro	Sales Representative
+Que Del°cia	Rua da Panificadora, 12	(21) 555-4252	RJ	02389-673	Brazil	QUEDE	Rio de Janeiro	(21) 555-4545	Bernardo Batista	Accounting Manager
+Queen Cozinha	Alameda dos CanÖrios, 891	(11) 555-1189	SP	05487-020	Brazil	QUEEN	Sao Paulo	N/A	L£cia Carvalho	Marketing Assistant
+QUICK-Stop	Taucherstra·e 10	0372-035188	N/A	01307	Germany	QUICK	Cunewalde	N/A	Horst Kloss	Accounting Manager
+Rancho grande	Av. del Libertador 900	(1) 123-5555	N/A	1010	Argentina	RANCH	Buenos Aires	(1) 123-5556	Sergio GutiÇrrez	Sales Representative
+Rattlesnake Canyon Grocery	2817 Milton Dr.	(505) 555-5939	NM	87110	USA	RATTC	Albuquerque	(505) 555-3620	Paula Wilson	Assistant Sales Representative
+Reggiani Caseifici	Strada Provinciale 124	0522-556721	N/A	42100	Italy	REGGC	Reggio Emilia	0522-556722	Maurizio Moroni	Sales Associate
+Ricardo Adocicados	Av. Copacabana, 267	(21) 555-3412	RJ	02389-890	Brazil	RICAR	Rio de Janeiro	N/A	Janete Limeira	Assistant Sales Agent
+Richter Supermarkt	Grenzacherweg 237	0897-034214	N/A	1203	Switzerland	RICSU	Genäve	N/A	Michael Holz	Sales Manager
+Romero y tomillo	Gran V°a, 1	(91) 745 6200	N/A	28001	Spain	ROMEY	Madrid	(91) 745 6210	Alejandra Camino	Accounting Manager
+SantÇ Gourmet	Erling Skakkes gate 78	07-98 92 35	N/A	4110	Norway	SANTG	Stavern	07-98 92 47	Jonas Bergulfsen	Owner
+Save-a-lot Markets	187 Suffolk Ln.	(208) 555-8097	ID	83720	USA	SAVEA	Boise	N/A	Jose Pavarotti	Sales Representative
+Seven Seas Imports	90 Wadhurst Rd.	(171) 555-1717	N/A	OX15 4NB	UK	SEVES	London	(171) 555-5646	Hari Kumar	Sales Manager
+Simons bistro	Vinbëltet 34	31 12 34 56	N/A	1734	Denmark	SIMOB	Kobenhavn	31 13 35 57	Jytte Petersen	Owner
+SpÇcialitÇs du monde	25, rue Lauriston	(1) 47.55.60.10	N/A	75016	France	SPECD	Paris	(1) 47.55.60.20	Dominique Perrier	Marketing Manager
+Split Rail Beer & Ale	P.O. Box 555	(307) 555-4680	WY	82520	USA	SPLIR	Lander	(307) 555-6525	Art Braunschweiger	Sales Manager
+Supràmes dÇlices	Boulevard Tirou, 255	(071) 23 67 22 20	N/A	B-6000	Belgium	SUPRD	Charleroi	(071) 23 67 22 21	Pascale Cartrain	Accounting Manager
+The Big Cheese	89 Jefferson Way Suite 2	(503) 555-3612	OR	97201	USA	THEBI	Portland	N/A	Liz Nixon	Marketing Manager
+The Cracker Box	55 Grizzly Peak Rd.	(406) 555-5834	MT	59801	USA	THECR	Butte	(406) 555-8083	Liu Wong	Marketing Assistant
+Toms SpezialitÑten	Luisenstr. 48	0251-031259	N/A	44087	Germany	TOMSP	MÅnster	0251-035695	Karin Josephs	Marketing Manager
+Tortuga Restaurante	Avda. Azteca 123	(5) 555-2933	N/A	05033	Mexico	TORTU	MÇxico D.F.	N/A	Miguel Angel Paolino	Owner
+Tradiá∆o Hipermercados	Av. Inàs de Castro, 414	(11) 555-2167	SP	05634-030	Brazil	TRADH	Sao Paulo	(11) 555-2168	Anabela Domingues	Sales Representative
+Trail's Head Gourmet Provisioners	722 DaVinci Blvd.	(206) 555-8257	WA	98034	USA	TRAIH	Kirkland	(206) 555-2174	Helvetius Nagy	Sales Associate
+Vaffeljernet	Smagsloget 45	86 21 32 43	N/A	8200	Denmark	VAFFE	èrhus	86 22 33 44	Palle Ibsen	Sales Manager
+Victuailles en stock	2, rue du Commerce	78.32.54.86	N/A	69004	France	VICTE	Lyon	78.32.54.87	Mary Saveley	Sales Agent
+Vins et alcools Chevalier	59 rue de l'Abbaye	26.47.15.10	N/A	51100	France	VINET	Reims	26.47.15.11	Paul Henriot	Accounting Manager
+Die Wandernde Kuh	Adenauerallee 900	0711-020361	N/A	70563	Germany	WANDK	Stuttgart	0711-035428	Rita MÅller	Sales Representative
+Wartian Herkku	Torikatu 38	981-443655	N/A	90110	Finland	WARTH	Oulu	981-443655	Pirkko Koskitalo	Accounting Manager
+Wellington Importadora	Rua do Mercado, 12	(14) 555-8122	SP	08737-363	Brazil	WELLI	Resende	N/A	Paula Parente	Sales Manager
+White Clover Markets	305 - 14th Ave. S. Suite 3B	(206) 555-4112	WA	98128	USA	WHITC	Seattle	(206) 555-4115	Karl Jablonski	Owner
+Wilman Kala	Keskuskatu 45	90-224 8858	N/A	21240	Finland	WILMK	Helsinki	90-224 8858	Matti Karttunen	Owner/Marketing Assistant
+Wolski  Zajazd	ul. Filtrowa 68	(26) 642-7012	N/A	01-012	Poland	WOLZA	Warszawa	(26) 642-7012	Zbyszek Piestrzeniewicz	Owner

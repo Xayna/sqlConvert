@@ -1,0 +1,77 @@
+1	0	1	18.0000	Chai	10 boxes x 20 bags	0	1	10	39
+1	0	1	19.0000	Chang	24 - 12 oz bottles	40	2	25	17
+2	0	1	10.0000	Aniseed Syrup	12 - 550 ml bottles	70	3	25	13
+2	0	2	22.0000	Chef Anton's Cajun Seasoning	48 - 6 oz jars	0	4	0	53
+2	1	2	21.3500	Chef Anton's Gumbo Mix	36 boxes	0	5	0	0
+2	0	3	25.0000	Grandma's Boysenberry Spread	12 - 8 oz jars	0	6	25	120
+7	0	3	30.0000	Uncle Bob's Organic Dried Pears	12 - 1 lb pkgs.	0	7	10	15
+2	0	3	40.0000	Northwoods Cranberry Sauce	12 - 12 oz jars	0	8	0	6
+6	1	4	97.0000	Mishi Kobe Niku	18 - 500 g pkgs.	0	9	0	29
+8	0	4	31.0000	Ikura	12 - 200 ml jars	0	10	0	31
+4	0	5	21.0000	Queso Cabrales	1 kg pkg.	30	11	30	22
+4	0	5	38.0000	Queso Manchego La Pastora	10 - 500 g pkgs.	0	12	0	86
+8	0	6	6.0000	Konbu	2 kg box	0	13	5	24
+7	0	6	23.2500	Tofu	40 - 100 g pkgs.	0	14	0	35
+2	0	6	15.5000	Genen Shouyu	24 - 250 ml bottles	0	15	5	39
+3	0	7	17.4500	Pavlova	32 - 500 g boxes	0	16	10	29
+6	1	7	39.0000	Alice Mutton	20 - 1 kg tins	0	17	0	0
+8	0	7	62.5000	Carnarvon Tigers	16 kg pkg.	0	18	0	42
+3	0	8	9.2000	Teatime Chocolate Biscuits	10 boxes x 12 pieces	0	19	5	25
+3	0	8	81.0000	Sir Rodney's Marmalade	30 gift boxes	0	20	0	40
+3	0	8	10.0000	Sir Rodney's Scones	24 pkgs. x 4 pieces	40	21	5	3
+5	0	9	21.0000	Gustaf's KnÑckebrîd	24 - 500 g pkgs.	0	22	25	104
+5	0	9	9.0000	Tunnbrîd	12 - 250 g pkgs.	0	23	25	61
+1	1	10	4.5000	Guaran† Fant†stica	12 - 355 ml cans	0	24	0	20
+3	0	11	14.0000	NuNuCa Nu·-Nougat-Creme	20 - 450 g glasses	0	25	30	76
+3	0	11	31.2300	GumbÑr GummibÑrchen	100 - 250 g bags	0	26	0	15
+3	0	11	43.9000	Schoggi Schokolade	100 - 100 g pieces	0	27	30	49
+7	1	12	45.6000	Rîssle Sauerkraut	25 - 825 g cans	0	28	0	26
+6	1	12	123.7900	ThÅringer Rostbratwurst	50 bags x 30 sausgs.	0	29	0	0
+8	0	13	25.8900	Nord-Ost Matjeshering	10 - 200 g glasses	0	30	15	10
+4	0	14	12.5000	Gorgonzola Telino	12 - 100 g pkgs	70	31	20	0
+4	0	14	32.0000	Mascarpone Fabioli	24 - 200 g pkgs.	40	32	25	9
+4	0	15	2.5000	Geitost	500 g	0	33	20	112
+1	0	16	14.0000	Sasquatch Ale	24 - 12 oz bottles	0	34	15	111
+1	0	16	18.0000	Steeleye Stout	24 - 12 oz bottles	0	35	15	20
+8	0	17	19.0000	Inlagd Sill	24 - 250 g  jars	0	36	20	112
+8	0	17	26.0000	Gravad lax	12 - 500 g pkgs.	50	37	25	11
+1	0	18	263.5000	Cìte de Blaye	12 - 75 cl bottles	0	38	15	17
+1	0	18	18.0000	Chartreuse verte	750 cc per bottle	0	39	5	69
+8	0	19	18.4000	Boston Crab Meat	24 - 4 oz tins	0	40	30	123
+8	0	19	9.6500	Jack's New England Clam Chowder	12 - 12 oz cans	0	41	10	85
+5	1	20	14.0000	Singaporean Hokkien Fried Mee	32 - 1 kg pkgs.	0	42	0	26
+1	0	20	46.0000	Ipoh Coffee	16 - 500 g tins	10	43	25	17
+2	0	20	19.4500	Gula Malacca	20 - 2 kg bags	0	44	15	27
+8	0	21	9.5000	Rogede sild	1k pkg.	70	45	15	5
+8	0	21	12.0000	Spegesild	4 - 450 g glasses	0	46	0	95
+3	0	22	9.5000	Zaanse koeken	10 - 4 oz boxes	0	47	0	36
+3	0	22	12.7500	Chocolade	10 pkgs.	70	48	25	15
+3	0	23	20.0000	Maxilaku	24 - 50 g pkgs.	60	49	15	10
+3	0	23	16.2500	Valkoinen suklaa	12 - 100 g bars	0	50	30	65
+7	0	24	53.0000	Manjimup Dried Apples	50 - 300 g pkgs.	0	51	10	20
+5	0	24	7.0000	Filo Mix	16 - 2 kg boxes	0	52	25	38
+6	1	24	32.8000	Perth Pasties	48 pieces	0	53	0	0
+6	0	25	7.4500	Tourtiäre	16 pies	0	54	10	21
+6	0	25	24.0000	PÉtÇ chinois	24 boxes x 2 pies	0	55	20	115
+5	0	26	38.0000	Gnocchi di nonna Alice	24 - 250 g pkgs.	10	56	30	21
+5	0	26	19.5000	Ravioli Angelo	24 - 250 g pkgs.	0	57	20	36
+8	0	27	13.2500	Escargots de Bourgogne	24 pieces	0	58	20	62
+4	0	28	55.0000	Raclette Courdavault	5 kg pkg.	0	59	0	79
+4	0	28	34.0000	Camembert Pierrot	15 - 300 g rounds	0	60	0	19
+2	0	29	28.5000	Sirop d'Çrable	24 - 500 ml bottles	0	61	25	113
+3	0	29	49.3000	Tarte au sucre	48 pies	0	62	0	17
+2	0	7	43.9000	Vegie-spread	15 - 625 g jars	0	63	5	24
+5	0	12	33.2500	Wimmers gute Semmelknîdel	20 bags x 4 pieces	80	64	30	22
+2	0	2	21.0500	Louisiana Fiery Hot Pepper Sauce	32 - 8 oz bottles	0	65	0	76
+2	0	2	17.0000	Louisiana Hot Spiced Okra	24 - 8 oz jars	100	66	20	4
+1	0	16	14.0000	Laughing Lumberjack Lager	24 - 12 oz bottles	0	67	10	52
+3	0	8	12.5000	Scottish Longbreads	10 boxes x 8 pieces	10	68	15	6
+4	0	15	36.0000	Gudbrandsdalsost	10 kg pkg.	0	69	15	26
+1	0	7	15.0000	Outback Lager	24 - 355 ml bottles	10	70	30	15
+4	0	15	21.5000	Flotemysost	10 - 500 g pkgs.	0	71	0	26
+4	0	14	34.8000	Mozzarella di Giovanni	24 - 200 g pkgs.	0	72	0	14
+8	0	17	15.0000	Rîd Kaviar	24 - 150 g jars	0	73	5	101
+7	0	4	10.0000	Longlife Tofu	5 kg pkg.	20	74	5	4
+1	0	12	7.7500	RhînbrÑu Klosterbier	24 - 0.5 l bottles	0	75	25	125
+1	0	23	18.0000	Lakkalikîîri	500 ml	0	76	20	57
+2	0	12	13.0000	Original Frankfurter grÅne So·e	12 boxes	0	77	15	32
